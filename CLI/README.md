@@ -1,4 +1,4 @@
-# Task 1 — CLI Tool Architecture
+# Task 1 — CLI Architecture
 
 ## Команда
 1. [Александр Плоскин](https://github.com/Alexander-Ploskin)
